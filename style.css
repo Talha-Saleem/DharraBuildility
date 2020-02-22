@@ -1,8 +1,8 @@
 
 /*=====
-Template Name: B-Hero	
-Author: MarkUps
-Author URI: http://www.markups.io/
+Template Name: Dharra's	
+Author: Dharra Buildilitys
+Author URI: http://www.dharrabuildility.io/
 Version: 1.0
 =======*/
 
@@ -325,13 +325,13 @@ a:focus,
 .mu-logo-area {
 	display: inline;
 	float: left;
-	width: 50%;
+	width: 30%;
 }
 
 .mu-navbar .mu-logo {
 	color: #fff;
 	font-weight: 600;
-	font-size: 36px;
+	font-size: 26px;
 }
 
 .mu-logo span{
@@ -372,7 +372,7 @@ a:focus,
 /*--------------------*/
 
 .mu-navbar {
-	padding: 20px 0;
+	padding: 5px;
 }
 
 .mu-navbar-nav {
@@ -389,10 +389,10 @@ a:focus,
 .mu-navbar-nav li a {
 	color: #fefeff;
 	display: block;
-	font-size: 14px;
-	font-weight: 700;
+	font-size: 12px;
+	font-weight: 500;
 	text-transform: uppercase;
-	padding: 9px 18px;
+	padding: 2px 8px;
 	border-radius: 15px;
 	-webkit-transition: all 0.5s;
 	-o-transition: all 0.5s;
